@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi , I'm Shubham Kumar</h1>
-<h3 align="center">A python developer</h3>
+<h3 align="center">A Python developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <br><br>
 
